@@ -6,12 +6,6 @@ As **imagens dos filmes** foram armazenadas diretamente no banco de dados MySQL,
 
 ---
 
-## 📸 Preview do Projeto
-
-![Preview do projeto](static/preview.png) <!-- Substitua pelo caminho correto se for diferente -->
-
----
-
 ## 🚀 Funcionalidades
 
 - Cadastro de filmes com título, descrição, ano de lançamento e imagem.
